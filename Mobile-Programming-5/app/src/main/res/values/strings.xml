@@ -1,0 +1,55 @@
+<!--
+  ~ Copyright (c) 2021 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name">Sports</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="list_fragment_label">Sports</string>
+    <string name="news_fragment_label">Sports News</string>
+
+    <string name="title_placeholder">Title</string>
+    <string name="news_title">Hot News</string>
+    <string name="sports_info_placeholder">Here is some news</string>
+    <string name="sports_news_detail_text">
+        Kota XYZ - Tim baseball Kota XYZ berhasil meraih gelar juara Liga Nasional dalam pertandingan seru yang berlangsung di Stadion Utama Kota XYZ. Kemenangan ini menandai keberhasilan tim dalam menghadapi persaingan sengit dari tim-tim baseball terbaik di seluruh negara.
+        Dalam pertandingan final yang penuh ketegangan, tim baseball Kota XYZ berhasil mengungguli tim saingannya, Tim Baseball Kota ABC, dengan skor akhir 5-4 setelah pertandingan yang berlangsung hingga inning tambahan.
+        Pertandingan ini benar-benar menjadi pertarungan sengit antara kedua tim, dengan pemain-pemain terbaik yang memberikan penampilan luar biasa.</string>
+    />
+
+    <string name="baseball">Baseball</string>
+    <string name="badminton">Badminton</string>
+    <string name="basketball">Basketball</string>
+    <string name="bowling">Bowling</string>
+    <string name="cycling">Cycling</string>
+    <string name="golf">Golf</string>
+    <string name="running">Running</string>
+    <string name="soccer">Soccer</string>
+    <string name="swimming">Swimming</string>
+    <string name="table_tennis">Table Tennis</string>
+    <string name="tennis">Tennis</string>
+
+    <string name="baseball_subtitle">Lets read Baseball news!</string>
+    <string name="badminton_subtitle">Lets read Badminton news!</string>
+    <string name="basketball_subtitle">Lets read Basketball news!</string>
+    <string name="bowling_subtitle">Lets read Bowling news!</string>
+    <string name="cycling_subtitle">Lets read Cycling news!</string>
+    <string name="golf_subtitle">Lets read Golf news!</string>
+    <string name="running_subtitle">Lets read Running news!</string>
+    <string name="soccer_subtitle">Lets read Soccer news!</string>
+    <string name="swimming_subtitle">Lets read Swimming news!</string>
+    <string name="table_tennis_subtitle">Lets read Table Tennis news!</string>
+    <string name="tennis_subtitle">Lets read Tennis news!</string>
+</resources>

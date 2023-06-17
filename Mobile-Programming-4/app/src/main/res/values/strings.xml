@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TutorialKotlin 4.4</string>
+    <string name="hello_blank_fragment1">Selamat Datang di Tutorial 1</string>
+    <string name="hello_blank_fragment2">Selamat Datang di Tutorial 2</string>
+    <string name="hello_blank_fragment3">Selamat Datang di Tutorial 3</string>
+    <string name="tablayout">tabLayout</string>
+</resources>
